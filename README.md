@@ -46,4 +46,4 @@ To address the high Steam-Oil Ratio (SOR) and reduce operating costs, the dashbo
 *   **Result:** The AI Copilot and the human operator are both financially incentivized to optimize steam energy consumption and reduce the SOR, directly maximizing net profit and equipment life.
 
 ---
-*Developed by Bishes Sarkar (Dept. of Chemical Engineering, NIT Durgapur) - 2026
+Developed by Bishes Sarkar (Dept. of Chemical Engineering, NIT Durgapur) - 2026
